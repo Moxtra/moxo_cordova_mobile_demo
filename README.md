@@ -10,8 +10,8 @@ A cordova demo app based on [cordova-plugin-moxo](https://github.com/Moxtra/cord
 
 ### Requirement
 
-* iOS 13.0+
-* Android 4.4+
+* iOS 15.0+
+* Android 7.0+
 
 ## How to run
 
